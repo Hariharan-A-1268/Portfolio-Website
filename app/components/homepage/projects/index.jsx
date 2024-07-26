@@ -1,5 +1,6 @@
 import { projectsData } from "@/utils/data/projects-data";
 import ProjectCard from "./project-card";
+import Image from "next/image";
 
 const Projects = () => {
   return (
