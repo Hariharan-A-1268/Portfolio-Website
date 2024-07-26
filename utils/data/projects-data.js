@@ -1,7 +1,3 @@
-import crefin from "/public/image/crefin.jpg";
-import realEstate from "/public/image/real-estate.jpg";
-import travel from "/public/image/travel.jpg";
-
 export const projectsData = [
   {
     id: 1,
@@ -10,9 +6,6 @@ export const projectsData = [
       "This React project is a MERN (MongoDB, Express.js, React, Node.js) stack project designed to create a user-friendly chatting app which uses real time communication and have both one to one and group chatting functionalities. This project stores user data in encrypted format in Mongo DB Database.",
     tools: ["React", "Socket.IO", "Express", "Node JS", "MongoDB"],
     role: "Full Stack Developer",
-    code: "",
-    demo: "",
-    image: crefin,
   },
   {
     id: 2,
@@ -21,9 +14,6 @@ export const projectsData = [
       "This project uses a machine learning model to predict the weather for the next five hours and gives the current weather data of your area. With the predicted data the model gives information, whether to irrigate your agricultural field. It also contains some information related to some efficient irrigation methods that will be helpful for farmers.",
     tools: ["HTML", "CSS", "Bootstrap", "Flask", "API", "Machine Learning"],
     role: "Front End Developer",
-    code: "",
-    demo: "",
-    image: travel,
   },
   {
     id: 3,
@@ -31,23 +21,6 @@ export const projectsData = [
     description:
       "This Angular project is a MEAN (MongoDB, Express.js, Angular, Node.js) stack project designed to create a user-friendly e-commerce platform focused on the sale of animal paintings. The website provides detailed information and pricing for a variety of animal paintings, allowing users to explore and select their preferred artworks.",
     tools: ["Angular", "CSS", "Express", "Node JS", "TypeScript", "MongoDB"],
-    code: "",
     role: "Full Stack Developer",
-    demo: "",
-    image: realEstate,
   },
 ];
-
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     name: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-//     image: crefin,
-// },
