@@ -4,7 +4,7 @@ export const educations = [
     title: "Bachelor Degree",
     course:
       "B.Tech Computer Science and Engineering with Specialization in Blockchain Technology",
-    duration: "2021 - Present",
+    duration: "2021 - 2025",
     institution: "Vellore Institute of Technology, Vellore",
   },
   {
