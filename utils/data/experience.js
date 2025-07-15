@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: "IT Trainee",
-    company: "FIS",
+    company: "FIS Global Business Solutions India Pvt. Ltd.",
     duration: "(Jan 2025 - Present)",
   },
   {
