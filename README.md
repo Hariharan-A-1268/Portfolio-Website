@@ -2,7 +2,8 @@
 
 ## Home
 
-![image](https://github.com/user-attachments/assets/8b8f78d7-70fd-4e0f-8ddc-d1a43a0fe85e)
+![image](https://github.com/user-attachments/assets/189b23c8-c63b-4064-a4b6-7a1f012a075c)
+
 
 <br>
 
@@ -14,7 +15,8 @@
 
 ## Experience
 
-![image](https://github.com/user-attachments/assets/892a728d-893d-4cb9-a779-dee82a7b3e6c)
+![image](https://github.com/user-attachments/assets/da6907ad-08bf-499f-8760-8ac7d386676c)
+
 
 <br>
 
@@ -32,5 +34,5 @@
 
 ## Education
 
-![image](https://github.com/user-attachments/assets/0c39803a-7ac7-40a8-b48a-886ee8fa6735)
+![image](https://github.com/user-attachments/assets/93a3e737-1d05-4201-911a-ff3d8c759fb7)
 
