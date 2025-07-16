@@ -96,32 +96,32 @@ function HeroSection() {
               {/* frontendSkills */}
               <div className="ml-4 lg:ml-8">
                 <span className="text-white">frontendSkills:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">React</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Angular</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Next.js</span><span className="text-gray-400">{`'`}</span>
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               {/* backendSkills */}
               <div className="ml-4 lg:ml-8">
                 <span className="text-white">backendSkills:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Node.js</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Express</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Flask</span><span className="text-gray-400">{`'`}</span>
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               {/* databases */}
               <div className="ml-4 lg:ml-8">
                 <span className="text-white">databases:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">PostgreSQL</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">MySQL</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">SQLite</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">MongoDB</span><span className="text-gray-400">{`'`}</span>
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               {/* dataMappers */}
@@ -132,39 +132,39 @@ function HeroSection() {
             
               <div className="ml-8 lg:ml-12">
                 <span className="text-white">orms:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">SQLAlchemy</span><span className="text-gray-400">{`'`}</span>
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               <div className="ml-8 lg:ml-12">
                 <span className="text-white">odms:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Mongoose</span><span className="text-gray-400">{`'`}</span>
-                <span className="text-gray-400">]</span>
+                <span className="text-gray-400">{']'}</span>
               </div>
             
               <div className="ml-4 lg:ml-8">
-                <span className="text-gray-400">},</span>
+                <span className="text-gray-400">{'},'}</span>
               </div>
             
               {/* programmingLanguages */}
               <div className="ml-4 lg:ml-8">
                 <span className="text-white">programmingLanguages:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 {['Python', 'C', 'C++', 'Java', 'JavaScript', 'TypeScript'].map((lang, i, arr) => (
                   <span key={lang}>
                     <span className="text-gray-400">{`'`}</span><span className="text-amber-300">{lang}</span><span className="text-gray-400">{`'`}</span>
                     {i < arr.length - 1 && <span className="text-gray-400">, </span>}
                   </span>
                 ))}
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               {/* toolsAndPlatforms */}
               <div className="ml-4 lg:ml-8">
                 <span className="text-white">toolsAndPlatforms:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 {[
                   'JIRA', 'Git', 'GitHub', 'Postman', 'RESTful API', 'SoapUI',
                   'Mockoon API', 'Studio 3T', 'Oracle SQL Developer',
@@ -175,22 +175,22 @@ function HeroSection() {
                     {i < arr.length - 1 && <span className="text-gray-400">, </span>}
                   </span>
                 ))}
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               {/* devOpsTools */}
               <div className="ml-4 lg:ml-8">
                 <span className="text-white">devOpsTools:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Render</span><span className="text-gray-400">{`',`}</span>{' '}
                 <span className="text-gray-400">{`'`}</span><span className="text-amber-300">Vercel</span><span className="text-gray-400">{`'`}</span>
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               {/* certifications */}
               <div className="ml-4 lg:ml-8">
                 <span className="text-white">certifications:</span>{' '}
-                <span className="text-gray-400">[</span>
+                <span className="text-gray-400">{'['}</span>
                 {[
                   'Machine Learning A-Z by Udemy',
                   'Full Stack Web Development Course',
@@ -202,7 +202,7 @@ function HeroSection() {
                     {i < arr.length - 1 && <span className="text-gray-400">, </span>}
                   </span>
                 ))}
-                <span className="text-gray-400">],</span>
+                <span className="text-gray-400">{'],'}</span>
               </div>
             
               {/* softSkills */}
@@ -225,12 +225,12 @@ function HeroSection() {
               </div>
             
               <div className="ml-4 lg:ml-8">
-                <span className="text-gray-400">}</span>
+                <span className="text-gray-400">{'}'}</span>
               </div>
             
               {/* closing bracket */}
               <div>
-                <span className="text-gray-400">};</span>
+                <span className="text-gray-400">{'};'}</span>
               </div>
             </code>
           </div>
