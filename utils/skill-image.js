@@ -15,6 +15,8 @@ import postgresql from "/public/svg/skills/postgresql.svg";
 import python from "/public/svg/skills/python.svg";
 import react from "/public/svg/skills/react.svg";
 import typescript from "/public/svg/skills/typescript.svg";
+import flask from "/public/svg/skills/flask.svg";
+import nextjs from "/public/svg/skills/nextjs.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -53,6 +55,10 @@ export const skillsImage = (skill) => {
       return python;
     case "git":
       return git;
+    case "flask":
+      return flask;
+    case "nextjs":
+      return nextjs;
     default:
       break;
   }
