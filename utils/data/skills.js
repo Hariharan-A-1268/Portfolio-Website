@@ -6,7 +6,7 @@ export const skillsData = [
   "Bootstrap",
   "React",
   "Angular",
-  "Next JS",
+  "NextJS",
   "Node JS",
   "Flask",
   "MongoDB",
