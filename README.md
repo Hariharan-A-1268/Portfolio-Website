@@ -28,7 +28,8 @@
 
 ## Projects
 
-![image](https://github.com/user-attachments/assets/c409d4d4-055c-4fb7-a311-5f40cb9d0a27)
+![image](https://github.com/user-attachments/assets/98f0448f-e6ca-46b5-bc27-49f32177ea48)
+
 
 <br>
 
